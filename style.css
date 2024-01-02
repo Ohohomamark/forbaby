@@ -1,0 +1,17 @@
+
+
+html {
+  font-weight: bold
+}
+
+button {
+  font-style: italic;
+  font-weight: bold;
+}
+
+body {
+    background-color: grey;
+    font-size: 10pt;
+    font-style: italic;
+}
+
